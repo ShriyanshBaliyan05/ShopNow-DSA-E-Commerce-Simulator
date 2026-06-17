@@ -25,7 +25,7 @@ Unlike a traditional e-commerce website, the primary goal of this project is to 
 ShopNow-DSA-E-Commerce-Simulator/
 │
 ├── shopnow.c
-├── index.html
+├── frontend.html
 └── README.md
 ```
 
